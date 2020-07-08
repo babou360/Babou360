@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"Babou360",
+    "description":"I am a App development engineer and I use Flutter and a little bit of Reactjs to develop Apps. This Page is thereby here to showcase what i kind of do so you know where i stand in case you wish to work with me",
+    "image":"app.png",
+    "bio":"I am Amri Mkilanya(Babou) born and raised in the city of Arusha Tanzania i went to Sombetini for primary and secondary and Minaki for Advanced secondary education then to University of Dodoma at the college of Informatics and virtual Education and i was in the school of Virtual education where i graduated in 2019 but did not attend the graduation ceremony  .",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "leebabou@gmail.com",
+    "phone": "+255-738-279-971",
+    "github":"https://github.com/babou360",
+    "project":"https://github.com/babou360",
+    "address":{
+      "street":"Cheka ung'atwe,Sombetini",
+      "city":"Arusha",
+      "state":"Tanzania",
+      "zip": "23100"
+    },
+    "website": "http://www.babou360.epizy.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/babou360",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/babou360",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/babou360",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/babou360",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Dodoma",
+        "degree":"Bachelor in ICT-Mediated Content Development",
+        "graduated":"November 2019",
+        "description":"I was only a shy little kid the first time i joined the institution i did not even know how to use computer i remember a friend of mine used to laugh at me because i was scared to even touch his but i grew up there and became somehow an expert until today"
+      },
+      {
+        "school":"Minaki High School",
+        "degree":"CBG",
+        "graduated":"2016",
+        "description":"This is indeed the first and last boarding school i've ever attended it is in Kisarawe a District in Pwani Region"
+      },
+      {
+        "school":"Sombetini Secondary School",
+        "degree":"All Subjects except Business from form 3 up to 4",
+        "graduated":"November 2013",
+        "description":"The closest school i've ever attended it is only like 30 metres away from home and it's during this time when i had the best moment of my life growing up as a kid and made lots of friends too in short i enjoyed every second of it"
+      },
+      {
+        "school":"Sombetini Primary School",
+        "degree":"All Subjects",
+        "graduated":"2009",
+        "description":"The most dificult moment of my life as a student i did not like the way kids were treated at this school heavy beatings from teachers i cannot remember a single day going back and forth without getting a single stick present from these teachers and trust me this was too much for a little kid to take"
+      }
+    ],
+    "work":[
+      {
+        "company":"errandiaga",
+        "title":"FullStack App Developer ",
+        "years":"March 2019 - Present",
+        "description":"errandiaga is my own vision for a company that am working to achieve it's not yet a fully-functional but in shaa Allah one day we'll get there"
+      },
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX Guru",
+        "years":"2018",
+        "description":"I did not stay here for too long "
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"2018",
+        "description":"Worked with other students from the university of Dodoma to develop an online bus reservation website and i was a bug fixer"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Dart",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50"
+      },
+      {
+        "name":"Sequalize",
+        "level":"80%"
+      },
+      {
+        "name":"GraphQl",
+        "level":"70%"
+      },
+      {
+        "name":"Firebase",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fast Shopping",
+        "category":"This is a flutter android app to help you shop faster",
+        "image":"canadian-wanderlust.JPG",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
